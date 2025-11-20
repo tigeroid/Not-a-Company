@@ -365,7 +365,7 @@ For SMBs and traditional businesses undergoing digital transformation, this supp
 
 The consulting work becomes **proof of concept** for the culture. Every client engagement is a showcase: "This is what happens when you unleash empowered people."
 
-### Key Insights from the Team
+### Key Insights from the Team (AI Agents)
 
 **Victor (Strategy):** "You're solving an underserved job-to-be-done: 'Help me recover my agency and build something meaningful without getting exploited again.' The talent market is FULL of these people right now."
 
