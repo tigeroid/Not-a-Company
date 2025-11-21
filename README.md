@@ -1,6 +1,6 @@
 # Not A Company Manifesto
 
-> **Version 0.1** — A living document
+> **Version 0.2** — A living document
 > "Not a company. A refuge for the burnt. A collective for the brave."
 
 ---
@@ -210,6 +210,86 @@ We help you build the *right* internal team, at the *right* time.
 - **Fractional Leadership**: Ongoing CTO/Product mentorship
 
 > "Don't just build a team. Build the *right* team—with the right DNA, at the right stage."
+
+---
+
+## 🌱 SEED: Professional Partnership Ecosystems
+
+**The Problem We Observe:**
+
+Picture this: A 30-person marketing agency just landed their biggest client. Their founder, Sarah, suddenly realizes she's storing client data on employee personal laptops with no security policies, no backup strategy, no disaster recovery plan. One misplaced laptop could destroy everything she's built.
+
+She knows she needs help, but her options are limited:
+
+**Option A: "Wil on the Motorbike"**
+An IT support vendor who travels office-to-office provisioning laptops, troubleshooting crashes, installing software. He's competent at tactical fixes — replacing a broken screen, recovering a crashed hard drive. But ask him about BYOD security policies, zero-trust architecture, or compliance frameworks? That's not his job. He fixes symptoms. He doesn't prevent catastrophes.
+
+**Option B: The Hourly Fractional CTO**
+A consultant with impressive credentials who charges $300/hour to review her infrastructure and write a 40-page security recommendation document. He delivers excellent advice, sends an invoice, and disappears. Six months later, Sarah still hasn't implemented any of it — she doesn't know where to start, doesn't have technical staff, and the consultant is now engaged elsewhere. The report gathers digital dust.
+
+**Option C: A Full-Time CTO**
+At $180K+ salary plus equity, completely out of reach for a 30-person agency. She doesn't need someone full-time anyway — but she desperately needs *someone who actually cares* whether her business survives the next security audit.
+
+**Sarah is stuck.** And so are thousands of entrepreneurs like her.
+
+---
+
+**The Gap in the Market:**
+
+The real problem isn't lack of technical expertise — it's the **fundamental misalignment** in how professional services operate:
+
+- "Wil on the motorbike" is incentivized to maximize service calls, not eliminate them
+- The hourly fractional CTO is incentivized to maximize billable hours, not outcomes
+- Both arrive as **vendors**, not partners — they deliver their contracted service and leave
+
+What Sarah actually needs is someone who thinks about her security posture at 2am when a news story breaks about a competitor's data breach. Someone who proactively reaches out: *"Did you see this? Let's make sure we're protected."* Someone compensated for **preventing disasters**, not documenting them.
+
+She needs a **guardian**, not a consultant.
+
+---
+
+**The Vision We Hold:**
+
+What if professional services were rebuilt from the ground up — not as transactions, but as **alliances**?
+
+Imagine a fractional CTO who:
+- Embeds as a guardian, not advises as an outsider
+- Gets compensated for outcomes (business protection + growth), not hours logged
+- Co-owns decisions and their consequences alongside the entrepreneur
+- Thinks strategically (Should we adopt BYOD? How do we protect customer data?) while coordinating tactical execution (working WITH "Wil on the motorbike" for implementation)
+
+Now imagine Sarah has been **prepared** to work with this person effectively:
+- She understands the difference between purchasing hours and investing in partnership
+- She values preventing one catastrophe over getting 40 billable hours
+- She's ready to collaborate, not just consume deliverables
+
+*This* is the transformation both sides need **before they ever meet.**
+
+---
+
+**The Invitation:**
+
+We envision becoming **ground preparers** — transforming both fractional professionals and entrepreneurs *before* connecting them:
+
+**For the Fractional Professional:**
+Unlearn consultant behaviors. Embrace outcome-based thinking. Become embedded, not transactional. Think like a guardian who shares the sleepless nights, not a vendor counting hours.
+
+**For the Entrepreneur:**
+Unlearn vendor relationships. Understand partnership value. Appreciate strategic protection over tactical quick-fixes. Invest in prevention, not just remediation.
+
+Only when **both sides arrive partnership-ready** do we introduce them.
+
+---
+
+**This is a seed, not a solution.**
+
+If you're a fractional CTO exhausted by clients who nickel-and-dime your expertise...
+If you're an entrepreneur seeking a strategic partner who actually cares about your survival...
+If you believe professional relationships should be covenants, not contracts...
+
+**Join us. Let's co-create this together.**
+
+*How do we prepare ground at scale? How do we align incentives beyond hourly billing? How do we signal readiness? These questions await our collective genius.*
 
 ---
 
