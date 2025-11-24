@@ -2,6 +2,7 @@
 
 > **Version 0.2** — A living document
 > "Not a company. A refuge for the burnt. A collective for the brave."
+> _Auto-synced to [Notion](https://notion.so/2b5ee2047d5a80038bf9d81f8c8292d7)_
 
 ---
 
