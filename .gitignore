@@ -40,3 +40,7 @@ yarn-error.log*
 # Temporary files
 *.tmp
 *.temp
+
+# Environment variables (contains secrets)
+.env
+node_modules/
