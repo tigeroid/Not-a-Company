@@ -34,17 +34,30 @@ async function publishToNotion() {
     console.log('🔍 Checking existing page content...');
     const existingPage = await notion.pages.retrieve({ page_id: pageId });
 
-    // Get existing blocks to delete them
+    // Get existing blocks to delete them (with pagination)
     console.log('🧹 Clearing existing content...');
-    const existingBlocks = await notion.blocks.children.list({
-      block_id: pageId,
-      page_size: 100,
-    });
+    let hasMore = true;
+    let cursor = undefined;
+    let totalDeleted = 0;
 
-    // Delete existing blocks
-    for (const block of existingBlocks.results) {
-      await notion.blocks.delete({ block_id: block.id });
+    while (hasMore) {
+      const existingBlocks = await notion.blocks.children.list({
+        block_id: pageId,
+        page_size: 100,
+        start_cursor: cursor,
+      });
+
+      // Delete all blocks in this page
+      for (const block of existingBlocks.results) {
+        await notion.blocks.delete({ block_id: block.id });
+        totalDeleted++;
+      }
+
+      hasMore = existingBlocks.has_more;
+      cursor = existingBlocks.next_cursor;
     }
+
+    console.log(`  ✓ Deleted ${totalDeleted} existing blocks`);
 
     console.log('📝 Publishing new content to Notion...');
 
