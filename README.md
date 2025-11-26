@@ -108,6 +108,30 @@ These aren't aspirations. These are **non-negotiables**.
 
 ---
 
+## 🌊 Designing for Flow
+
+There is a state where time dissolves, challenges energize rather than drain, and work becomes effortless mastery. Athletes know this state. Artists know this state. And craftspeople—those who take their work seriously—know this state.
+
+We call it flow. And we believe it is not accidental.
+
+**Flow emerges from deliberate design.** Clear goals. Immediate feedback. Skills matched to challenges. Concentrated attention. Psychological safety. These are not luxuries—they are prerequisites for extraordinary work.
+
+Most organizations accidentally optimize against flow: endless meetings fragment attention, unclear strategies muddle goals, fear-based cultures crush experimentation. We choose differently.
+
+**We design our organizations as flow sanctuaries.** Every decision—from team structure to tool selection to meeting cadence—is tested against one question: Does this enable or inhibit flow states?
+
+**Each team cultivates their own flow garden.** The patterns that create flow vary. Some teams flow in silence; others in collaboration. Some flow in morning light; others in midnight focus. We provide frameworks and seeds for exploration (Flow Architecture Guide), but the cultivation belongs to those tending the garden.
+
+**Flow is designed, not discovered. Autonomy in implementation, alignment in principle.**
+
+Each pod owns their flow architecture. The how is yours; the why is ours. We provide patterns, not prescriptions. Frameworks, not formulas.
+
+**We measure success by states, not just outputs.**
+
+When people consistently access flow, they don't just perform better—they evolve faster, innovate deeper, and build work worth being proud of. This is not productivity theater. This is the deliberate cultivation of conditions where mastery develops and innovation emerges.
+
+---
+
 ## 🧪 The Culture IS the Product
 
 Our consulting work isn't separate from our culture—**the culture IS what we're selling**.
