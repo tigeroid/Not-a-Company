@@ -44,3 +44,7 @@ yarn-error.log*
 # Environment variables (contains secrets)
 .env
 node_modules/
+
+# AI tooling — not for public consumption
+.bmad/
+.claude/
