@@ -1,9 +1,0 @@
-installation:
-  version: 6.0.0-alpha.12
-  installDate: '2025-11-19T08:47:28.008Z'
-  lastUpdated: '2025-11-19T08:47:28.008Z'
-modules:
-  - core
-  - cis
-ides:
-  - claude-code
