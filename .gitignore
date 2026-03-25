@@ -48,3 +48,6 @@ node_modules/
 # AI tooling — not for public consumption
 .bmad/
 .claude/
+_tanuki_context/
+CLAUDE.md
+docs/
