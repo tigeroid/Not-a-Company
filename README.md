@@ -3,6 +3,8 @@
 > **Version 0.2** — A living document
 > "Not a company. A refuge for the burnt. A collective for the brave."
 
+**View this manifesto:** [tigeroid.github.io/Not-a-Company](https://tigeroid.github.io/Not-a-Company/)
+
 ---
 
 ## 🔥 We Were Burnt
