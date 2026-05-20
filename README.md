@@ -193,7 +193,7 @@ Let's build the world we want to live in.
 
 ---
 
-**Contact:** [To be added]
+**Contact:** Henry Tano — [tanohenry@gmail.com](mailto:tanohenry@gmail.com)
 
 ---
 
